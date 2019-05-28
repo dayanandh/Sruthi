@@ -1,0 +1,77 @@
+-------------------------------------------------------
+m1-16 q
+-------------------------------------------------------
+
+from pf-1 q from good prog practices
+software reviews and testing 1q
+exception handling 1q
+
+
+web basics html 5 1q
+css3 1q
+working from document javascript 1q
+forms javascript 1q
+xml 2q
+(anotomy of xml 1q xml schema 1q )
+ from oracle 6q
+single row and grop functuion
+joins and sub queries
+dml
+cursors
+procedures and functions
+OOP 1q Nd UML 1q
+
+-----------------------------------------------------
+corejava m2- 18q
+-----------------------------------------------------
+3 questions--class and objects abstract classes and interfaces,
+coretopics 
+utils and collections -4q
+i/o 1q
+stream API -1q
+lamda expression 1q
+jdbc -3q
+exceptions -2q
+multithreading -1q
+junit -1q
+log4j -1q
+
+-----------------------------------------------------
+module 3-18q
+-----------------------------------------------------
+
+request and response objects-3q
+session tracking -3q
+interservlet communication -1q
+ from jsp 
+scripting elements -3q
+directives -3q
+actions -2q
+jstl-1qa
+pmd -1q
+maven -1q
+-------------------------------------------------------
+module 4-18q
+-------------------------------------------------------
+
+intro to spring framework and IOC-4q
+intro to spring flatform and environment -1q
+SPEL -2q
+AOP -2q(annotation ,pointcut)
+Spring with JPA -2q
+MVC framework 4q---2code based and 2 concept based
+jquery,angular js, web services,jpa with hibernate -1q on each
+ 
+-----------------------------------------------------------
+module -5q
+-----------------------------------------------------------
+
+intro to software engineering -3q(lifecycle models,config manangement process, testing phase)
+quatity process awareness-2q (sdlc phases and defect preve4ntiion 1 q each)
+
+
+
+
+https://icompassweb.fs.capgemini.com/iCompass/#/
+
+https://drive.google.com/drive/u/0/folders/1rOGn3J0vf2dEsk-cDusavPx0I6ftTK1Nxc
